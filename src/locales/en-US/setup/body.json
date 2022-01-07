@@ -1,0 +1,18 @@
+{
+    "V_CHANNEL_DESCRIPTION":  "Please provide a `CHANNEL ID` that the verification message can go to",
+    "V_CHANNEL_TITLE": "Verify Channel Required",
+    "V_TITLE_TITLE": "Set Up Embed To Send",
+    "V_TITLE_DESCRIPTION": "Please give the embed to send a `TITLE`! this is the bold text at the top of an embed.",
+    "V_DESCRIPTION_TITLE": "Set Up Embed To Send",
+    "V_DESCRIPTION_DESCRIPTION": "Please give the embed `DESCRIPTION`! this is the main body of the embed and is where you should welcome your new users.",
+
+
+    "W_TITLE": "Welcome Message Config",
+    "W_DESCRIPTION": "Would You Like to Enable or Disable Welcome Messaging?\n\n❌ - Disable / ✅ - Enable",
+    "W_MESSAGE_TITLE": "Setup Welcome Message",
+    "W_MESSAGE_DESCRIPTION": "Please type the message you would like to be sent when a new user joins!\nadd these to the message to display their function:\n\n**__Welcome Configuration__**\n<member> - member's name\n<memberID> - member's ID\n<memberTag> - member's Tag\n<memberCreated> - How many days ago their account was created\n<memberJoined> - when the memberJoined\n\n**__Embed?__**\n<embed> (at the start of message)- put this in if you want the message to be in an embed\n<avatar> (at the start of message)- if you want the embed to have ethe members logo\n\nThe current welcome message is set to:\n",
+    "W_CHANNEL_DESCRIPTION": "Please provide a `CHANNEL ID` that the welcome message can go to",
+    "W_CHANNEL_TITLE": "Welcome Channel Required"
+    
+
+}

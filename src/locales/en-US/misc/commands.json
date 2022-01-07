@@ -1,0 +1,14 @@
+{
+    "TRADE_REQUEST_TITLE": "{{player1}} sent a trade request to {{player2}}",
+    "TRADE_REQUEST_DESCRIPTION": "{{invited}},\nif you would like to accept this trade request please react with ✅ \nIf you would like to decline please react with ❌",
+    "TRADE_DECLINE": "Trade invite declined.",
+    "TRADE_TIMEOUT": "The trade timed out.",
+
+    "SHOP": ":candy: Welcome To The Candy Shop! :candy:",
+    "SHOP_DESCRIPTION": "Any items you purchase can be Traded or Gambled. Your inventory is set to 10 items! You are able to increase your inventory size by [CLICKING HERE](https://discord.com/channels/872235959415078942/872235959889064068) and becomming a member of the **__Official Candy Server__** (+20 Inventory)\n\nThe store price and stock is constantly changing... so in 120 seconds this message will delete to keep everything up to date.\n\n(Price) - the amount of coins you require to purchase the item.\n(Stock) - How many of the item there are in stock.\n(Rank) - The rank required to purchase the item.",
+    
+    "Price": "Price",
+    "Stock": "Stock",
+    "Rank": "Rank"
+
+}

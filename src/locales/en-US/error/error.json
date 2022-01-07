@@ -1,0 +1,24 @@
+{
+    "ERR_OCCURRED": "There was an error! Please try again.",
+    "ERR": "Unknown error!",
+    "OWNER_ONLY": "Only {{owner}} can use this command!",
+    "MODERATOR_ONLY": "Sorry, only users with {{moderator}} Role can run that command!",
+    "TIMEOUT": "Sorry there is a cooldown on this command, You must wait {{timeLeft}} more second(s).",
+
+    "CHANNEL_TITLE": "That channel could not be found!",
+    "CHANNEL_DESCRIPTION": "Please supply a valid channel.",
+
+    "TITLE_LONG_TITLE": "That title was too long!",
+    "TITLE_LONG_DESCRIPTION": "The Discord title limit is set to 256 characters.",
+
+    "DESCRIPTION_LONG_TITLE": "That descriptions was too long!",
+    "DESCRIPTION_LONG_DESCRIPTION": "The Discord description limit is set to 1056 characters.",
+
+    "EMPTY_BACKPACK_TITLE": "Your Backpack is empty!",
+    "EMPTY_BACKPACK_DESC": "To get more items for your backpack you must either buy them from the shop/Trade items or unbox them from crates!",
+
+    "USER_NOT_FOUND": "That user could not be found!",
+    "CANNOT_INV_PLAYER": "You cannot invite yourself to a trade!",
+
+    "NO_EVALUATION": "No evaluation entered, please enter something to evalute!"
+}
